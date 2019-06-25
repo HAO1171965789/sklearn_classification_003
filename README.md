@@ -1,2 +1,1 @@
-# sklearn_classification_003
-sklearn_classification_003
+本案例介绍了过滤垃圾短信的分类算法，首先提取转化短信中的文本信息，然后用朴素贝叶斯算法对短信进行分类。
